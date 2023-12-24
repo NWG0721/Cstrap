@@ -1,0 +1,7 @@
+Z:\Programs\c#\C_ooter\C_ooter\bin\Debug\C_ooter.exe.config
+Z:\Programs\c#\C_ooter\C_ooter\bin\Debug\C_ooter.exe
+Z:\Programs\c#\C_ooter\C_ooter\bin\Debug\C_ooter.pdb
+Z:\Programs\c#\C_ooter\C_ooter\obj\Debug\C_Booter.csproj.AssemblyReference.cache
+Z:\Programs\c#\C_ooter\C_ooter\obj\Debug\C_Booter.csproj.CoreCompileInputs.cache
+Z:\Programs\c#\C_ooter\C_ooter\obj\Debug\C_ooter.exe
+Z:\Programs\c#\C_ooter\C_ooter\obj\Debug\C_ooter.pdb
